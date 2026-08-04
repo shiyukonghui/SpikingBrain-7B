@@ -7,3 +7,7 @@
 **/debug_logs/
 **/debug_txt_logs/*
 *.pt
+
+BitNet-main/BitNet-main/
+
+/models
